@@ -1,3 +1,7 @@
 # python-practical
 
-I have created this repo to help me remind me of some python basics
+I have created this repository to help me remind myself of some Python basics.
+
+
+
+
